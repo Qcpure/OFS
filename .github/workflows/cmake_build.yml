@@ -2,7 +2,8 @@ name: CMake
 
 on: 
   push: {}
-  pull_request: {}
+  pull_request: {}100
+  
 
 env:
   BUILD_TYPE: Release
